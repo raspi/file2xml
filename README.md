@@ -1,3 +1,16 @@
+# File2XML
+Convert any file to handy byte safe XML
+
+Inspired by http://thedailywtf.com/articles/Oh%2c-XML
+
+## Example
+
+File test.txt contents:
+```
+test
+```
+
+output.xml:
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <Data>
